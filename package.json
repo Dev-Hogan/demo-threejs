@@ -9,10 +9,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "lil-gui": "^0.21.0",
+    "three": "^0.180.0",
     "vue": "^3.5.22"
   },
   "devDependencies": {
     "@types/node": "^24.6.0",
+    "@types/three": "^0.180.0",
     "@vitejs/plugin-vue": "^6.0.1",
     "@vue/tsconfig": "^0.8.1",
     "typescript": "~5.9.3",
